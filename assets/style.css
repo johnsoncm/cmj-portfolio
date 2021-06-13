@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url('https://images.pexels.com/photos/62693/pexels-photo-62693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-color: #cccccc;
+    /* background-repeat:repeat-x; */
+    overflow-x: hidden;
+}
+
+.my-name{
+font-family:'Monofett';
+text-align: center;
+font-size: 80px;
+}
+
+
+.title{
+    font-family:'Bungee Hairline';
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+  
+}
+
+.about-me{
+display: flex;
+justify-content:center;
+padding-top: 55px;
+
+}
+
+.nav-links{
+    color: black;
+    text-align: center;
+    padding-top: 30px;
+    text-decoration: none;
+    font-family: 'Pontano Sans';
+    font-size: 30px;
+    font-weight: 400;
+
+ 
+   
+   
+}
+
+.about-me{
+    text-decoration: none;
+}
+
+.card-body{
+    padding-top: 60px;
+}
+
