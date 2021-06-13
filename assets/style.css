@@ -38,9 +38,9 @@ padding-top: 55px;
     text-align: center;
     padding-top: 30px;
     text-decoration: none;
-    font-family: 'Pontano Sans';
+    font-family: 'Bungee Hairline';
     font-size: 30px;
-    font-weight: 400;
+    font-weight: bolder;
 
  
    
@@ -55,3 +55,71 @@ padding-top: 55px;
     padding-top: 60px;
 }
 
+.about{
+    text-decoration: none;
+    color: black;
+    padding-right: 30px;
+}
+.resume{
+    text-decoration: none;
+    color: black;
+    padding-right: 30px;
+}
+.work{
+    text-decoration: none;
+    color: black;
+    padding-right: 30px;
+}
+.contact{
+    text-decoration: none;
+    color: black;
+    padding-right: 30px;
+}
+
+#para-text{
+    font-family: 'avenir';
+}
+
+#about-me{
+    font-family: 'avenir';
+}
+
+#work{
+    padding-top: 50px;
+}
+.work-header{
+    padding-top: 150px;
+}
+
+.navbar-brand-contact{
+    text-align:center;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+
+.container-fluid{
+    background-color: var(--background-color2);
+}
+
+
+  .navbar{
+    background-color: var(--background-color1);
+ 
+}
+
+#contact{
+    background-color: var(--background-color2);
+}
+
+.navbar-text{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+
+}
+
+.nav-link{
+    font-size: 20px;
+}
