@@ -37,7 +37,9 @@ display: flex;
 justify-content:center;
 padding-top: 55px;
 
+
 }
+
 
 .nav-links{
     color: black;
@@ -87,15 +89,22 @@ padding-top: 55px;
 }
 
 #about-me{
-    font-family: 'avenir';
+    font-family: 'Bungee Hairline';
+    font-weight: bolder;
+    font-size: 30px;
 }
 
 #work{
     padding-top: 50px;
+    font-family: 'Bungee Hairline';
+    font-weight: bolder;
+    font-size: 30px;
 }
 .work-header{
     padding-top: 150px;
 }
+
+/* Footer styling*/
 
 .navbar-brand-contact{
     text-align:center;
@@ -114,6 +123,9 @@ padding-top: 55px;
 
   .navbar{
     background-color: var(--background-color1);
+    display: flex;
+
+    
  
  
 }
@@ -122,12 +134,12 @@ padding-top: 55px;
     background-color: var(--background-color2);
 }
 
-.navbar-text{
+ .navbar-text{
     display: flex;
     justify-content: flex-end;
     flex-direction: row;
 
-}
+} 
 
 .nav-link{
     font-size: 25px;
@@ -139,6 +151,7 @@ padding-top: 55px;
     max-width: 100%;
     height: auto;
     padding-bottom: 20px;
+
 }
 
 
@@ -155,7 +168,7 @@ a:link{
 }
 
 .navbar-item {
-    padding-bottom: 130px;
+    padding-bottom: 230px;
     font-family: 'avenir';
     color: black;
     padding-right: 15px;
@@ -170,3 +183,6 @@ a:link{
     margin-left: 20px;
     padding-bottom: 20px;
 }
+
+
+
