@@ -3,6 +3,12 @@
     padding: 0;
     margin: 0;
 }
+/* css variables and properties */
+:root {
+    --background-color1: honeydew;
+    --background-color2: rgb(233, 233, 233) ;
+ 
+}
 
 body{
     background-image: url('https://images.pexels.com/photos/62693/pexels-photo-62693.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
@@ -96,6 +102,8 @@ padding-top: 55px;
     text-decoration: none;
     color: black;
     font-size: 25px;
+    font-family: 'Bungee Hairline';
+    font-weight: bolder;
 }
 
 
@@ -106,6 +114,7 @@ padding-top: 55px;
 
   .navbar{
     background-color: var(--background-color1);
+ 
  
 }
 
@@ -121,14 +130,43 @@ padding-top: 55px;
 }
 
 .nav-link{
-    font-size: 20px;
+    font-size: 25px;
+    font-family: 'Bungee Hairline';
+    font-weight: bolder;
 }
 
 .card-img-top{
     max-width: 100%;
     height: auto;
+    padding-bottom: 20px;
 }
 
-.nounderline{
-    text-decoration: none !important;
+
+
+a:link{
+    text-decoration: none;
+    
+}
+
+.card-title-color{
+    color: black;
+    font-family: 'avenir';
+  
+}
+
+.navbar-item {
+    padding-bottom: 130px;
+    font-family: 'avenir';
+    color: black;
+    padding-right: 15px;
+}
+
+.card-text{
+    font-family: 'avenir';
+}
+
+.work-header{
+    font-family: 'avenir';
+    margin-left: 20px;
+    padding-bottom: 20px;
 }
