@@ -123,3 +123,12 @@ padding-top: 55px;
 .nav-link{
     font-size: 20px;
 }
+
+.card-img-top{
+    max-width: 100%;
+    height: auto;
+}
+
+.nounderline{
+    text-decoration: none !important;
+}
