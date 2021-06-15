@@ -126,14 +126,15 @@ padding-top: 55px;
 
   .navbar{
     background-color: var(--background-color1);
-    display: flex;
+    /* display: flex;
     position: fixed;
     left: 0;
-    bottom: 0;
+    bottom: 0; */
     width: 100%;
     background-color: red;
     color: white;
     text-align: center;
+    padding: 0px;
 
     
  
@@ -178,7 +179,7 @@ a:link{
 }
 
 .navbar-item {
-    padding-bottom: 230px;
+    /* padding-bottom: 230px; */
     font-family: 'avenir';
     color: black;
     padding-right: 15px;
