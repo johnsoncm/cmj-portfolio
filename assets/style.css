@@ -15,6 +15,9 @@ body{
     background-color: #cccccc;
     /* background-repeat:repeat-x; */
     overflow-x: hidden;
+    background-size: cover;
+    background-attachment: fixed;
+    
 }
 
 .my-name{
@@ -124,6 +127,13 @@ padding-top: 55px;
   .navbar{
     background-color: var(--background-color1);
     display: flex;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
 
     
  
