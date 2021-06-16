@@ -1,7 +1,7 @@
 # cmj-portfolio
 
 
-[Link to Portfolio Website](https://johnsoncm.github.io/cj_Portfolio/)<br>
+[Link to Portfolio Website](https://johnsoncm.github.io/cmj-portfolio/)<br>
 
 
 **Website Behavior**<br>
@@ -9,12 +9,12 @@ When the links in the navbar are clicked, the user is taken to those sections of
 
 In the footer, my LinkedIn and Github profiles are linked, as well as my email and phone number.
 
-**![Screenshot of Website]()**
-**![Screenshot of Website]()**
+**![Screenshot of Website](./assets/images/Portfolio3_SC1.png)**
+**![Screenshot of Website](./assets/images/Portfolio3_SC2.png)**
 
 **Porfolio Items:**<br>
 [Link to Portfolio Website](https://johnsoncm.github.io/cmj-portfolio/)<br>
-[Link to Resume](https://johnsoncm.github.io/cj_Portfolio/assets/Casey_Johnson_Resume_4.17.21.pdf)<br>
+[Link to Resume](file:///Users/caseyjohnson/Downloads/Casey_Johnson_Resume_6.15.21.pdf)<br>
 [Link to LinkedIn Profile](https://www.linkedin.com/in/casey-johnson-11336b4a/)<br>
 [Link to Github Profile](https://github.com/johnsoncm)<br>
 
