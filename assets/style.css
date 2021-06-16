@@ -175,6 +175,7 @@ a:link{
 .card-title-color{
     color: black;
     font-family: 'avenir';
+    font-size: xx-large;
   
 }
 
@@ -187,12 +188,14 @@ a:link{
 
 .card-text{
     font-family: 'avenir';
+    font-size: larger;
 }
 
 .work-header{
     font-family: 'avenir';
     margin-left: 20px;
     padding-bottom: 20px;
+    font-size: xx-large;
 }
 
 
